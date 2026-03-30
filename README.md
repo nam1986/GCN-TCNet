@@ -39,17 +39,5 @@ All datasets can be accessed via the following link:
 If you use this dataset repository in your research, please cite the source papers and datasets:
 
 ### Primary Paper (from ACL Anthology)
-Zadeh, A., Liang, P. P., Poria, S., Cambria, E., & Morency, L.-P. (2024).  
-*A contrastive graph-transformer network model for multimodal sentiment analysis*.  
-In **Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT)**.  
-Available at: https://aclanthology.org/2024.naacl-long.197/
+Z. Wu, Z. Gong, J. Koo, and J. Hirschberg, “Multimodal Multi-loss Fusion Network for Sentiment Analysis,” in *Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)*, Mexico City, Mexico, 2024, pp. 3588–3602.
 
-####  BibTeX (for LaTeX)
-```bibtex
-@inproceedings{zadeh-etal-2024-contrastive,
-  title     = {A Contrastive Graph-Transformer Network Model for Multimodal Sentiment Analysis},
-  author    = {Zadeh, Amir and Liang, Pengcheng and Poria, Soujanya and Cambria, Erik and Morency, Louis-Philippe},
-  booktitle = {Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT)},
-  year      = {2024},
-  url       = {https://aclanthology.org/2024.naacl-long.197/}
-}
