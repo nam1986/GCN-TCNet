@@ -32,5 +32,4 @@ These datasets are widely used benchmarks in multimodal sentiment analysis resea
 
 All datasets can be accessed via the following link:
 
-**Download datasets:**  
 [Download datasets] (https://drive.google.com/drive/folders/1Vwui9eKVt03j5uAfAzPKnJZLO97qKNu_?usp=sharing)
