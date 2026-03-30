@@ -33,3 +33,23 @@ These datasets are widely used benchmarks in multimodal sentiment analysis resea
 All datasets can be accessed via the following link:
 
 [Download datasets] (https://drive.google.com/drive/folders/1Vwui9eKVt03j5uAfAzPKnJZLO97qKNu_?usp=sharing)
+
+## 4. Citation
+
+If you use this dataset repository in your research, please cite the source papers and datasets:
+
+### Primary Paper (from ACL Anthology)
+Zadeh, A., Liang, P. P., Poria, S., Cambria, E., & Morency, L.-P. (2024).  
+*A contrastive graph-transformer network model for multimodal sentiment analysis*.  
+In **Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT)**.  
+Available at: https://aclanthology.org/2024.naacl-long.197/
+
+####  BibTeX (for LaTeX)
+```bibtex
+@inproceedings{zadeh-etal-2024-contrastive,
+  title     = {A Contrastive Graph-Transformer Network Model for Multimodal Sentiment Analysis},
+  author    = {Zadeh, Amir and Liang, Pengcheng and Poria, Soujanya and Cambria, Erik and Morency, Louis-Philippe},
+  booktitle = {Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT)},
+  year      = {2024},
+  url       = {https://aclanthology.org/2024.naacl-long.197/}
+}
